@@ -1,6 +1,10 @@
+main{
+    margin-top: 5rem;
+}
 .navbar-brand img{
     width: 3.2rem;
 }
+
 
 .carousel-item{
    height: 800px;
